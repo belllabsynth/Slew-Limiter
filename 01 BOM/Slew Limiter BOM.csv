@@ -1,0 +1,13 @@
+Reference(s),Value,Qty,Description
+"C1, C2, C5, C6",10uf,4,Polarized radial capacitor
+"C3, C4",100nf,2,Ceramic disc capacitor
+"D1, D2",1N5817,2,Diode
+"D3, D4",1N4148,2,Diode
+"J1, J2",,2,Thonkiconn jack
+JP1,,1,5x5 header
+"R1, R4",100k,2,1/4w resistor
+"R2, R5",100r,2,1/4w resistor
+R3,1k,1,1/4w resistor
+RV1,250k lin,1,Alpha 9mm vertical pot
+SW1,ON-OFF-ON,1,SPDT switch – Tayda 1M series
+U1,TL072,1,OpAmp
