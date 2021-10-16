@@ -1,4 +1,6 @@
 # Slew Limiter
+*IMPORTANT NOTE*
+An updated board is coming shortly, please do not order this board until I have an update out. It's been brought to my attention that my version 1.0 boards may be a bit on the long side. I tested it out on one of my cases and it mounted no problem, but on my other case it was just a touch too long to clear the rails. There are no traces below the outputs ground leg so you can carefully trim a little bit off there if you already have the board, but if not please wait for a revision to be posted to save yourself some trouble.
 
 *Build Notes* 
 
