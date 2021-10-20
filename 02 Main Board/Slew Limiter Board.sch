@@ -272,7 +272,7 @@ U 1 1 6142F0EE
 P 1950 4650
 F 0 "JP1" H 2000 5150 50  0000 C CNN
 F 1 "PWR" H 2000 5050 50  0000 C CNN
-F 2 "winterbloom:Eurorack_Power" H 1950 4650 50  0001 C CNN
+F 2 "mainboard:Eurorack_Power" H 1950 4650 50  0001 C CNN
 F 3 "~" H 1950 4650 50  0001 C CNN
 	1    1950 4650
 	1    0    0    -1  
